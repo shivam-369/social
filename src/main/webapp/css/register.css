@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+#box {
+	padding: 20px;
+	width: 500px;
+	margin-top: 150px;
+}
+
+body {
+	background-image: url('https://th.bing.com/th/id/Ra6f7cb5a8836898a18095ae44f520e6c?rik=G8zNdnVELIZ7Aw&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f7%2fc%2f5%2f770483-free-good-desktop-wallpaper-1920x1080-for-android-50.jpg&ehk=SU51BZ6Fc6YBgeKF30g0QvpTdmTc6%2bM8aMU5iZ8D4g0%3d&risl=&pid=ImgRaw');
+	/*opacity: 0.3;*/
+	/*background-image: url('https://cdn.wallpapersafari.com/71/23/WhVze9.jpg'); */
+}
